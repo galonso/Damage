@@ -1,0 +1,34 @@
+body,html{
+	padding: 0px;
+	margin: 0px;
+	width:100%;
+	height:100%;
+}
+
+#slider,#slider2{
+	width:500px;
+}
+
+.dragdealer {
+	position: relative;
+	border-radius:5px;
+	height: 30px;
+	width:auto;
+	background: #EEE;
+}
+.dragdealer .handle {
+	position: absolute;
+	cursor: pointer;
+}
+.dragdealer .red-bar {
+	border-radius:5px;
+	width: 100px;
+	height: 30px;
+	background: #CC0000;
+	color: #FFF;
+	line-height: 30px;
+	text-align: center;
+}
+.dragdealer .disabled {
+	background: #898989;
+}
