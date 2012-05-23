@@ -23,14 +23,6 @@ html,body{
     background-image: -moz-linear-gradient(bottom, rgb(93,134,35) 19%, rgb(134,194,50) 54%);
     background-image: -webkit-linear-gradient(bottom, rgb(93,134,35) 19%, rgb(134,194,50) 54%);
     background-image: -ms-linear-gradient(bottom, rgb(93,134,35) 19%, rgb(134,194,50) 54%);
-
-    background-image: -webkit-gradient(
-        linear,
-        left bottom,
-        left top,
-        color-stop(0.19, rgb(93,134,35)),
-        color-stop(0.54, rgb(134,194,50))
-        );
     font-size: 15px;
 }
 
