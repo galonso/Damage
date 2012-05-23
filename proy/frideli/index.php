@@ -5,8 +5,8 @@
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
         <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" /> 
         <!-- ## Css ## -->
-        <link href="/css/home.css" rel="stylesheet" type="text/css"/>
-        <link href="/css/colorbox.css" rel="stylesheet" type="text/css"/>
+        <link href="css/home.css" rel="stylesheet" type="text/css"/>
+        <link href="css/colorbox.css" rel="stylesheet" type="text/css"/>
       
         <!-- ## Script:include ## -->
         <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js" ></script>
