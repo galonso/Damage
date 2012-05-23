@@ -18,11 +18,11 @@ html,body{
     margin: 0;
     padding: 0;
     font-family: arial,sans-serif;
-    background-image: linear-gradient(bottom, rgb(93,134,35) 19%, rgb(134,194,50) 54%);
-    background-image: -o-linear-gradient(bottom, rgb(93,134,35) 19%, rgb(134,194,50) 54%);
-    background-image: -moz-linear-gradient(bottom, rgb(93,134,35) 19%, rgb(134,194,50) 54%);
-    background-image: -webkit-linear-gradient(bottom, rgb(93,134,35) 19%, rgb(134,194,50) 54%);
-    background-image: -ms-linear-gradient(bottom, rgb(93,134,35) 19%, rgb(134,194,50) 54%);
+    background-image: linear-gradient(bottom, rgb(134,194,50) 100%, rgb(93,134,35) 68%);
+    background-image: -o-linear-gradient(bottom, rgb(134,194,50) 100%, rgb(93,134,35) 68%);
+    background-image: -moz-linear-gradient(bottom, rgb(134,194,50) 100%, rgb(93,134,35) 68%);
+    background-image: -webkit-linear-gradient(bottom, rgb(134,194,50) 100%, rgb(93,134,35) 68%);
+    background-image: -ms-linear-gradient(bottom, rgb(134,194,50) 100%, rgb(93,134,35) 68%);
     font-size: 15px;
 }
 
